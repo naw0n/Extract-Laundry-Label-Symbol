@@ -16,10 +16,10 @@
 <img src="project intro_laundry label.png">
 
 ### 스택
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/visual studio-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/opencv-5c3ee8?style=for-the-badge&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VisualStudio](https://img.shields.io/badge/visual%20studio-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-5c3ee8?style=for-the-badge&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 데모
 <img src="project demo_laundry label.gif">
